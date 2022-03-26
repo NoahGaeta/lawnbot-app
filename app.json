@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "lawnbot",
+    "slug": "lawnbot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Uses your location to show on the map."
+      },
+      "bundleIdentifier": "ios.movarobotics.com"
+    }
+  },
+  "name": "lawnbot"
+}
